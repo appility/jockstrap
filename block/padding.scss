@@ -1,0 +1,18 @@
+$std-margin: 16px;
+
+.mt-1 { margin-top: $std-margin; }
+.mr-1 { margin-right: $std-margin; }
+.mt-2 { margin-top: 2*$td-margin; }
+
+.ov-h { overflow: hidden; }
+
+.d-b {  display: block; }
+
+.va-m {  vertical-align: middle; }
+
+.fl-st { float: $float-start; }
+.fl-nd { float: $float-end; }
+
+.fw-b {  font-weight: bold; }
+
+.fs-i {  font-style: italic; }
